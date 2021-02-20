@@ -32,5 +32,3 @@ THEN that will be shown on the page, and added to their transaction history when
 ![](images/budget-tracker.png)
 
 # Deployment Link
-
-https://mysterious-temple-74523.herokuapp.com/
